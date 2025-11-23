@@ -1,0 +1,14 @@
+H:\project\godot\测试\cardMemory\cardMemory\bin\Debug\net10.0-windows\cardMemory.exe
+H:\project\godot\测试\cardMemory\cardMemory\bin\Debug\net10.0-windows\cardMemory.deps.json
+H:\project\godot\测试\cardMemory\cardMemory\bin\Debug\net10.0-windows\cardMemory.runtimeconfig.json
+H:\project\godot\测试\cardMemory\cardMemory\bin\Debug\net10.0-windows\cardMemory.dll
+H:\project\godot\测试\cardMemory\cardMemory\bin\Debug\net10.0-windows\cardMemory.pdb
+H:\project\godot\测试\cardMemory\cardMemory\obj\Debug\net10.0-windows\cardMemory.GeneratedMSBuildEditorConfig.editorconfig
+H:\project\godot\测试\cardMemory\cardMemory\obj\Debug\net10.0-windows\cardMemory.AssemblyInfoInputs.cache
+H:\project\godot\测试\cardMemory\cardMemory\obj\Debug\net10.0-windows\cardMemory.AssemblyInfo.cs
+H:\project\godot\测试\cardMemory\cardMemory\obj\Debug\net10.0-windows\cardMemory.csproj.CoreCompileInputs.cache
+H:\project\godot\测试\cardMemory\cardMemory\obj\Debug\net10.0-windows\cardMemory.dll
+H:\project\godot\测试\cardMemory\cardMemory\obj\Debug\net10.0-windows\refint\cardMemory.dll
+H:\project\godot\测试\cardMemory\cardMemory\obj\Debug\net10.0-windows\cardMemory.pdb
+H:\project\godot\测试\cardMemory\cardMemory\obj\Debug\net10.0-windows\cardMemory.genruntimeconfig.cache
+H:\project\godot\测试\cardMemory\cardMemory\obj\Debug\net10.0-windows\ref\cardMemory.dll
